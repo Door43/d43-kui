@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kui:home|Door43 (kui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kui|d43-kui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kui/archive/master.zip|d43-kui.zip]]
+
+**Recent Changes**
+{{changes>ns = kui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kui|Ethnologue data]]
+
